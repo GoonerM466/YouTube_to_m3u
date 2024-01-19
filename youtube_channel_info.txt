@@ -1,14 +1,17 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Asia Cup Live | Live Sports | https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png | https://www.youtube.com/afcasiancup/live
+Asia Cup Live | Live Sports | https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png | 
+http://www.youtube.com/afcasiancup/live
 
-Asia Cup Live 2 | Live Sports | https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png | https://www.youtube.com/@AFCAsianCup/live
+Asia Cup Live 2 | Live Sports | https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png | 
+http://www.youtube.com/@AFCAsianCup/live
 
-Asia Cup Live 3 | Live Sports | https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png | https://www.youtube.com/live/4tQGgA-1EE0?si=a7PyeweLx-XGM_go
+Asia Cup Live 3 | Live Sports | https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png | 
+http://www.youtube.com/live/4tQGgA-1EE0?si=a7PyeweLx-XGM_go
 
 Live Asia Cup | Live Sports | https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png |
-https://www.youtube.com/watch?v=4tQGgA-1EE0&ab
+http://www.youtube.com/watch?v=4tQGgA-1EE0&ab
 
 Talk Sport | Live Sports | https://cdn2.talksport.com/tscdn/talksport/brand/talkSPORT.png |
 https://www.youtube.com/@talkSPORT/live
