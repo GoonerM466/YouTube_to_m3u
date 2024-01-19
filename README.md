@@ -7,7 +7,7 @@ Fork of:
 
 Updated m3u links of YouTube live channels, **auto-updated every hour**.
 
-Customised to focus on live sport on YouTube, English Sports News & News, Music & my favourite YouTube Streamers.
+Customised to focus on live sport on YouTube, English Sports News & World News, Music & my favourite YouTube Streamers.
 
 ### Usage
 Paste this URL: `[https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u](https://raw.githubusercontent.com/GoonerM466/YouTube_to_m3u/main/youtube.m3u)` to any player which supports M3U playlists
