@@ -2,16 +2,16 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Asia Cup Live | Live Sports | https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png |
-httpS://www.youtube.com/afcasiancup/live
+https://www.youtube.com/afcasiancup/live
 
 Asia Cup Live 2 | Live Sports | https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png |
-httpS://www.youtube.com/@afcasiancup/live
+https://www.youtube.com/@afcasiancup/live
 
 Asia Cup Live 3 | Live Sports | https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png |
-httpS://www.youtube.com/live/4tQGgA-1EE0?si=a7PyeweLx-XGM_go
+https://www.youtube.com/live/4tQGgA-1EE0?si=a7PyeweLx-XGM_go
 
 Asia Cup Live 3 | Live Sports | https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png |
-httpS://www.youtube.com/watch?v=4tQGgA-1EE0&ab
+https://www.youtube.com/watch?v=4tQGgA-1EE0&ab
 
 Talk Sport | Live Sports | https://cdn2.talksport.com/tscdn/talksport/brand/talkSPORT.png |
 https://www.youtube.com/@talkSPORT/live
