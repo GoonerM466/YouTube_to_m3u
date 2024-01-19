@@ -14,5 +14,29 @@
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png" tvg-id="", Asia Cup Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_26/3392750/nbcnews_color_2_8.jpg" tvg-id="", Asia Cup Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705695234/ei/ooOqZa3aC-OwsfIPjNuH4AM/ip/13.91.68.148/id/4CnNuN8DF2c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxp5NW6uiluqTycGFSFGNpnor_tMIkk-hKhuoHWkFTY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK1YMwCQV8vYk7wXXfwwgWEq0AvskUMqlGxczc8Wi8fLAiEApD3LHuPIuj3ANCYbwBghFfQ5L8yuY6K6BGUEwZx2a40%3D/file/index.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png" tvg-id="", Asia Cup Streams
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://cdn2.talksport.com/tscdn/talksport/brand/talkSPORT.png" tvg-id="", Talk Sport
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705696641/ei/IYmqZa7vAeHP1AHm27ioCQ/ip/172.183.32.47/id/gPNkzOxs7Cw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4I8CyFPtltWvzyDbUazuOHL8ozxWZzcWq447N17QhU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMoUiiGDOJdiXGRcWd_HSGT_pRRPI82cLM1QbGerPu3gAiEApQgCpu4g18h7qIFdMLAsFie-xS7itlcpCBncekM7yDs%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Yt Live Stream" tvg-logo="https://www.gran-turismo.com/gtsport/decal/5989871073815986184_1.png" tvg-id="", Rory Alexander
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705696641/ei/IYmqZdKrLZuX2_gP8dyIoAs/ip/172.183.32.47/id/ptBSsHrRLfo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyvCLoBHs2muW_Jp2zQwEILvD7E0G2bYSQdicLI931M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcV7S-DcRusw3bq3cy0W9eIWyoF9vAzq_qfexsLN3m3QCIFoWGC-SHT3_X8DLA6peuIYu9ngYPNEeeN6CMbjEXFLd/file/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_26/3392750/nbcnews_color_2_8.jpg" tvg-id="", NBC News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705696642/ei/IomqZZajEr2hlu8P0KOC8As/ip/172.183.32.47/id/4CnNuN8DF2c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51033620/txs/51033612%2C51033613%2C51033614%2C51033615%2C51033616%2C51033617%2C51033618%2C51033619%2C51033620/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5k1frTUw0GEGq4YvuEgJWHPUDEMuH6dIKp32mMLwDM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANzRqxG8W_EQqlz2IQVeDOijcZ6wajbvmVNNdWqDbAknAiBfhICL6AMU2lBPC5bX7p0fd8QgaLm3yh5PNI4ZuN4GDQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/S3Ob883.png" tvg-id="", Summer Mix 2023
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", New Year Music Mix 2023
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Hits Radio 1 Live Pop Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705696643/ei/I4mqZZaHKNmW2_gPmf-JkAE/ip/172.183.32.47/id/HQtFR3mhzOY.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1KfL--hi4qFfbCgRhKTlSihYE3bFVovBQnKIt6nVJs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgAmez1dMyD3NOSgQOfnbkVsS6-35CVI6glEmz9L9iqrICIE-p_IKxlRHhuFk-9eLu5y-z-DKPTTT2kWe-c6pNm8zu/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", The Good Life Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705696644/ei/JImqZYnIEp6W2_gP9pensAk/ip/172.183.32.47/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8ekHpDK3qeq0f2pRasG7aIIcOJyfjU7bwlhSb25A2Y/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOWUxDB_Xp3um6vU8QqyMTue2J4ay4Qxt3Em3uQppiTQCIENTlayH_i7xPFhD1lV-b9j6agkMH7XZka53dnjT6CmU/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Deep House Radio
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
