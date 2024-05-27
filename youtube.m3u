@@ -15,13 +15,13 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://cdn2.talksport.com/tscdn/talksport/brand/talkSPORT.png" tvg-id="", Talk Sport
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716844078/ei/zqFUZv_jFNfAsfIPzoWTuAI/ip/52.234.38.250/id/i4O9TK1rjnc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIy0lL4MQ8Z0uWpm5IPxoQTftRZxJZmoI1conO5-lyIdAiEAnWLi1KPx3IUQmdthr7SQDLVwkxsorKsqXTqG9tM0lOA%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Yt Live Stream" tvg-logo="https://www.gran-turismo.com/gtsport/decal/5989871073815986184_1.png" tvg-id="", Rory Alexander
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_26/3392750/nbcnews_color_2_8.jpg" tvg-id="", NBC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716844079/ei/z6FUZt7IHeDbsfIP4eWH2A4/ip/52.234.38.250/id/_t7oiBuoUYQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANLqM8GiTW4PL1Ofbr_pO-SaBw1iKUVnYooQZziWkbAjAiBTTjfcsmp2iPKdhmt-HT0F1MrkPeOH0cvBnT1-38s7Mg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/S3Ob883.png" tvg-id="", Summer Mix 2023
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -30,10 +30,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Hits Radio 1 Live Pop Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716844081/ei/0KFUZrPdOrmrsfIPs4C6sAw/ip/52.234.38.250/id/HQtFR3mhzOY.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIZuJg8CBBnvXwmyOOfhoAxX5Xz6oGoQBa6ahqYacIThAiEA9yGG1Rqnx5goemwy-9cTyb9BjOmdRzDrA2SuXEDxMuo%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", The Good Life Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716844081/ei/0aFUZqWqJsTSsfIPwNSIwAg/ip/52.234.38.250/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPM6OavYXG11tD5vJh5JJvYtDSCqaN321et9G_ZZdwsgAiB1HnjTQpz7EMLU-gAxuSwhLoSOoIrnJpvVmwC41Z727A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Deep House Radio
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
