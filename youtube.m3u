@@ -15,13 +15,13 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://cdn2.talksport.com/tscdn/talksport/brand/talkSPORT.png" tvg-id="", Talk Sport
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717470424/ei/eDBeZsCcMcaNybgP-POQwQo/ip/172.183.107.241/id/IcYrd3w6Css.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/UWF9f1kUKHCcMvbqNQa7MpYa0mGXlQvK6rtwZM3dv98znVfoQ-lBAxt2ZmWS8d4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL6UDLDoOX9oJXPXnBbLvwFdh6BLE81Uk24tjSA2xa17AiBtvj23EcVdJd5rDRU2e637wk-LmN_WkaQMTP8tZUi6Hw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Yt Live Stream" tvg-logo="https://www.gran-turismo.com/gtsport/decal/5989871073815986184_1.png" tvg-id="", Rory Alexander
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_26/3392750/nbcnews_color_2_8.jpg" tvg-id="", NBC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717466832/ei/cCJeZqCrGKqLkucPhMOgyAQ/ip/20.81.159.99/id/GwuZLZsLHnc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwOkqpwTUeIZrOq3n9ebiLQfAbMpNnLkGmYc1P9kPfAMr2UAMvwGZ0m0yUg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOJRWtMaR05nOxEn7kWLN2eGU-ym3MPrH-Y-1KfVOYmcAiEA785FQw83jxJCg8UuWF0CRnVYDYonJtJaZApfRgvWWvw%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717470425/ei/eTBeZsGGM_3Hir4P0cKZ4A8/ip/172.183.107.241/id/GwuZLZsLHnc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6kZIa9ZgAwrpGno39GZh8ddZypA670NaKhVW2Qmh1DNXxPtAqJuZaDKfuM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ0wb8X7mrrmXn8nqFlnB8v4zW2xXY-3lC_F4AqKuM9bAiBFYLr9tkxIOr2dRU-0CkZ3-voWiPqFeVJ1nTK9dUKlbg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/S3Ob883.png" tvg-id="", Summer Mix 2023
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -30,10 +30,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Hits Radio 1 Live Pop Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717466833/ei/cSJeZvXkJYCBkucPs-2K4AE/ip/20.81.159.99/id/HQtFR3mhzOY.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166971/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7yJrd_mLzLZiUXuCDXyoLJUXmVC8cpwhOVKMMvf3-iU4EVMWFigp0rFiU4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKMW69XHSubrdLGyNlhYcYXInD95dvm6RrQji_VtOOUNAiEA4h83JtwcZY-hCh0oO50rEQULtwS5m2hUStWuRpZfKCA%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", The Good Life Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717466834/ei/ciJeZqDzEO2NkucP-JaD0AU/ip/20.81.159.99/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5HP3dEBxZYXS8HF36HfzvtDhvCymamvVcPzJ5J1Yn3_rLjJ7bUAQxsqg2Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKasy1FDY4PiMH_8T7n0jNMhTgbTTZwgulWgv9CfcX7HAiEA3sNVmXciDOpwq4hfKBiHnSK1AhCPXlwCjijrU2hBqGY%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Deep House Radio
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
